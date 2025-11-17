@@ -1,1 +1,1 @@
-web: python HOSTING BOT.py
+web: python hosting_bot_.py
